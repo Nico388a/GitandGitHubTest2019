@@ -14,6 +14,8 @@ namespace GitandGitHubTest2019
             Console.WriteLine("Dette er en udskrivning lavet lokalt");
             //Dette er en kommentar der er blevet lavet på serveren
             Console.WriteLine("Hej Nicolaj, dette her må være den langsommeste chat nogensinde");
+            //Console.WriteLine er blevet bekræftet Tristan
+
             Console.ReadLine();
         }
     }
